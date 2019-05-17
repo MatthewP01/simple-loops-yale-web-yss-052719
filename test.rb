@@ -7,3 +7,5 @@ def until_iterator(number_of_times)
     puts "Welcome to Flatiron School's Web Development Course!"
   end
 end
+
+until_iterator(4)
